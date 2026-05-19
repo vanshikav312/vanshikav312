@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Gemini+API+%7C+TensorFlow+%7C+Deep+Learning;Hackathons+%7C+Open+Source+%7C+Problem+Solving;200%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Gemini+API+%7C+TensorFlow+%7C+Deep+Learning;Hackathons+%7C+Open+Source+%7C+Problem+Solving;150+%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
 
 </div>
 
