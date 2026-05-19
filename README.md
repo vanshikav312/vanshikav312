@@ -1,9 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a5f,100:0f172a&amp;height=200&amp;section=header&amp;text=Vanshika%20Valecha&amp;fontSize=48&amp;fontColor=e2e8f0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&amp;descAlignY=58&amp;descSize=16&amp;descColor=94a3b8" width="100%" />
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full-Stack+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Gemini+API+%7C+TensorFlow+%7C+Deep+Learning;Hackathons+%7C+Open+Source+%7C+Problem+Solving;200%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=220&section=header&text=Vanshika%20Valecha&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
 ---
 
 ## 👩‍💻 About Me
