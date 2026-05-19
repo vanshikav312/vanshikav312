@@ -1,7 +1,6 @@
-````md id="6y0e1p"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=220&section=header&text=Vanshika%20Valecha&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a5f,100:0f172a&amp;height=200&amp;section=header&amp;text=Vanshika%20Valecha&amp;fontSize=48&amp;fontColor=e2e8f0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&amp;descAlignY=58&amp;descSize=16&amp;descColor=94a3b8" width="100%" />
 
 <br/>
 
@@ -13,17 +12,15 @@
 
 ## 👩‍💻 About Me
 
-```ts
-const vanshika = {
-  degree: "B.Tech CSE (AI & ML) @ BML Munjal University",
-  batch: "2023 – 2027",
-  focus: ["Full-Stack Development", "AI/ML Engineering", "System Design"],
-  internship: "AI Intern @ NIELIT (Govt. of India)",
-  building: "AI Mock Interviewer Platform",
-  passions: ["AI Agents", "Scalable Web Apps", "Real-World Problem Solving"],
-  achievement: "SIH'24 Campus Round Qualifier | Top 10% @ IIT Guwahati DS&ML Course",
-};
-```
+🎓 B.Tech CSE (AI & ML) @ BML Munjal University — Batch 2023–2027 · CGPA: 7.62
+
+💼 AI Intern @ NIELIT (Govt. of India)
+
+🚀 Building: [AI Mock Interviewer Platform](https://ai-mock-interviewer-umber.vercel.app)
+
+🧠 Interests: AI Agents · Scalable Web Apps · Real-World Problem Solving
+
+🏆 SIH'24 Campus Round Qualifier · Top 10% @ IIT Guwahati DS&ML Course
 
 ---
 
@@ -34,7 +31,8 @@ const vanshika = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikav731/)
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikav312)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikavalecha.20@gmail.com)
-[![Live Demo](https://img.shields.io/badge/AI_Mock_Interviewer-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-mock-interviewer-umber.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vanshikav312)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-mock-interviewer-umber.vercel.app)
 
 </div>
 
@@ -44,7 +42,7 @@ const vanshika = {
 
 <div align="center">
 
-### Languages
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,7 +51,7 @@ const vanshika = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend & Backend
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -61,14 +59,14 @@ const vanshika = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### AI / ML
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -87,29 +85,38 @@ const vanshika = {
 ### 🤖 [AI Mock Interviewer Platform](https://ai-mock-interviewer-umber.vercel.app)
 > **Next.js (TypeScript) · React · MongoDB · Gemini API · Groq · NLP**
 
-- Built and deployed an end-to-end AI interview simulator with JD & role-based question generation and automated answer evaluation
-- Integrated Gemini API with Groq fallback architecture for reliable and uninterrupted AI responses
-- Implemented NLP-based performance analysis including technical accuracy, communication clarity, and session analytics
-- Developed analytics dashboards and anti-cheat monitoring using MongoDB and browser-based session tracking
+- Built and deployed an end-to-end AI interview simulator with **JD & role-based question generation** and automated answer evaluation
+- Integrated **Gemini API with Groq fallback** architecture for reliable, uninterrupted AI responses
+- Implemented **NLP-based performance analysis** — technical accuracy, communication clarity, session analytics
+- Developed analytics dashboards and **anti-cheat monitoring** using MongoDB & browser-based session tracking
 
 ---
 
 ### 🏥 Full-Stack Healthcare E-Commerce Platform
 > **Next.js · TypeScript · React · Tailwind CSS · MongoDB · JWT · Razorpay · AWS S3**
 
-- Built a production-ready healthcare platform with authentication, cart, and order management
-- Integrated Razorpay payment gateway and secure JWT authentication
-- Implemented AWS S3 for scalable image upload and media storage
+- Built a production-ready healthcare platform with **authentication, cart, and order management**
+- Integrated **Razorpay payment gateway** and secure JWT-based auth flows
+- Implemented **AWS S3** for scalable image upload and media storage
 - Designed scalable REST APIs, MongoDB schemas, and admin dashboards
 
 ---
 
-### 👨‍🍳 Chef Claude
-> **Next.js · Supabase · Llama-3 · Gemini**
+### 🧠 Multi-Organ & Multi-Disease Prediction
+> **Python · TensorFlow · Keras · Deep Learning · Medical Imaging**
 
-- AI-powered culinary web application using Next.js & Supabase
-- Generates tailored recipes utilizing advanced LLMs (Llama-3, Gemini)
-- Seamless full-stack solution featuring secure authentication and an intuitive UI
+- Developed an AI system for disease prediction using **CT scan images** (kidney, chest, brain)
+- Trained organ-specific deep learning models with image preprocessing on real medical datasets
+- Focused on **early detection** to support clinical decision-making
+
+---
+
+### 🤟 Sign Language Recognition
+> **Python · OpenCV · TensorFlow · Machine Learning**
+
+- Built an ML system to recognize and interpret **American Sign Language (ASL)** gestures in real-time
+- Applied computer vision via **OpenCV** and trained deep learning models for accurate gesture classification
+- Designed for **accessibility** — empowering users with hearing and speech disabilities
 
 ---
 
@@ -117,7 +124,7 @@ const vanshika = {
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| AI Intern (Python, OpenCV, TensorFlow) | NIELIT – Govt. of India | May 2025 – Jul 2026 |
+| AI Intern (Python, OpenCV, TensorFlow) | NIELIT – Govt. of India (Ministry of Electronics & IT) | May 2025 – Jul 2026 |
 
 *Worked on practical ML labs and mini-projects involving model training and evaluation.*
 
@@ -125,19 +132,19 @@ const vanshika = {
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Top 10% Performer — Data Science & ML Coursework, IIT Guwahati
-- 🚀 SIH'24 Campus Round Qualifier — Smart India Hackathon 2024
-- 🧪 AI & ML Workshop — IIT Roorkee
-- 🤖 AI Agent Creation Workshop — GeeksforGeeks
-- 💻 150+ DSA Problems solved on LeetCode & Coding Blocks
+- 🥇 **Top 10% Performer** — Data Science & ML Coursework, IIT Guwahati
+- 🚀 **SIH'24 Campus Round Qualifier** — Smart India Hackathon 2024
+- 🧪 **AI & ML Workshop** — IIT Roorkee
+- 🤖 **AI Agent Creation Workshop** — GeeksforGeeks
+- 💻 **200+ DSA Problems** solved on LeetCode & Coding Blocks
 
 ---
 
 ## 🎯 Extracurricular
 
-- Executive Committee Member, ACM — Led marketing & outreach for BMU's largest technical club
-- Lead Organizer, HackBMU 7.0 & SIH — Directed a 24-hour national-level hackathon
-- Student Event & Engagement Team — Organized workshops, seminars, and university-level events at BMU
+- **Executive Committee Member, ACM** — Led marketing & outreach for BMU's largest technical club
+- **Lead Organizer, HackBMU 7.0 & SIH** — Directed a 24-hour national-level hackathon
+- **Student Event & Engagement Team** — Organized workshops, seminars, and university-level events at BMU
 
 ---
 
@@ -181,22 +188,10 @@ const vanshika = {
 
 <div align="center">
 
-```cpp
-while (learning) {
-    build();
-    break_things();
-    fix();
-    ship();
-}
-```
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a5f,100:0f172a&amp;height=100&amp;section=footer" width="100%" />
 
 </div>
-````
