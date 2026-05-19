@@ -1,16 +1,210 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vanshikav312/vanshikav312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vanshika%20Valecha&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full-Stack+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Gemini+API+%7C+TensorFlow+%7C+Deep+Learning;Hackathons+%7C+Open+Source+%7C+Problem+Solving;200%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```ts
+const vanshika = {
+  degree: "B.Tech CSE (AI & ML) @ BML Munjal University",
+  batch: "2023 – 2027",
+  focus: ["Full-Stack Development", "AI/ML Engineering", "System Design"],
+  Internship: "AI Intern @ NIELIT (Govt. of India)",
+  building: "AI Mock Interviewer Platform",
+  passions: ["AI Agents", "Scalable Web Apps", "Real-World Problem Solving"],
+  achievement: "SIH'24 Campus Round Qualifier | Top 10% @ IIT Guwahati DS&ML Course",
+};
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikav731/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikav312)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikavalecha.20@gmail.com)
+[![Live Demo](https://img.shields.io/badge/AI_Mock_Interviewer-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-mock-interviewer-umber.vercel.app)
+
+</div>
+
+---
+
+## ⚒️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Tools & Platforms
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [AI Mock Interviewer Platform](https://ai-mock-interviewer-umber.vercel.app)
+> **Next.js (TypeScript) · React · MongoDB · Gemini API · Groq · NLP**
+
+- Built and deployed an end-to-end AI interview simulator with JD & role-based question generation and automated answer evaluation
+- Integrated Gemini API with Groq fallback architecture for reliable and uninterrupted AI responses
+- Implemented NLP-based performance analysis including technical accuracy, communication clarity, and session analytics
+- Developed analytics dashboards and anti-cheat monitoring using MongoDB and browser-based session tracking
+
+---
+
+### 🏥 Full-Stack Healthcare E-Commerce Platform
+> **Next.js · TypeScript · React · Tailwind CSS · MongoDB · JWT · Razorpay · AWS S3**
+
+- Built a production-ready healthcare platform with authentication, cart, and order management
+- Integrated Razorpay payment gateway and secure JWT authentication
+- Implemented AWS S3 for scalable image upload and media storage
+- Designed scalable REST APIs, MongoDB schemas, and admin dashboards
+
+---
+
+### 👨‍🍳 Chef Claude
+> **Next.js · Supabase · Llama-3 · Gemini**
+
+- AI-powered culinary web application using Next.js & Supabase
+- Generates tailored recipes utilizing advanced LLMs (Llama-3, Gemini)
+- Seamless full-stack solution featuring secure authentication and an intuitive UI
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| AI Intern (Python, OpenCV, TensorFlow) | NIELIT – Govt. of India | May 2025 – Jul 2026 |
+
+*Worked on practical ML labs and mini-projects involving model training and evaluation.*
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Top 10% Performer — Data Science & ML Coursework, IIT Guwahati
+- 🚀 SIH'24 Campus Round Qualifier — Smart India Hackathon 2024
+- 🧪 AI & ML Workshop — IIT Roorkee
+- 🤖 AI Agent Creation Workshop — GeeksforGeeks
+- 💻 200+ DSA Problems solved on LeetCode & Coding Blocks
+
+---
+
+## 🎯 Extracurricular
+
+- Executive Committee Member, ACM — Led marketing & outreach for BMU's largest technical club
+- Lead Organizer, HackBMU 7.0 & SIH — Directed a 24-hour national-level hackathon
+- Student Event & Engagement Team — Organized workshops, seminars, and university-level events at BMU
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshikav312&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&ring_color=38bdf8" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikav312&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vanshikav312&theme=github-dark-blue&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikav312&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f59e0b&area=true&area_color=1e3a5f"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikav312&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## 💻 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/vanshikav312?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+```cpp
+while (learning) {
+    build();
+    break_things();
+    fix();
+    ship();
+}
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
