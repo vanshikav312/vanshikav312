@@ -1,6 +1,7 @@
+````md id="6y0e1p"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Vanshika%20Valecha&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=220&section=header&text=Vanshika%20Valecha&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20%26%20ML)%20Undergraduate&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
 
 <br/>
 
@@ -17,7 +18,7 @@ const vanshika = {
   degree: "B.Tech CSE (AI & ML) @ BML Munjal University",
   batch: "2023 – 2027",
   focus: ["Full-Stack Development", "AI/ML Engineering", "System Design"],
-  Internship: "AI Intern @ NIELIT (Govt. of India)",
+  internship: "AI Intern @ NIELIT (Govt. of India)",
   building: "AI Mock Interviewer Platform",
   passions: ["AI Agents", "Scalable Web Apps", "Real-World Problem Solving"],
   achievement: "SIH'24 Campus Round Qualifier | Top 10% @ IIT Guwahati DS&ML Course",
@@ -128,7 +129,7 @@ const vanshika = {
 - 🚀 SIH'24 Campus Round Qualifier — Smart India Hackathon 2024
 - 🧪 AI & ML Workshop — IIT Roorkee
 - 🤖 AI Agent Creation Workshop — GeeksforGeeks
-- 💻 200+ DSA Problems solved on LeetCode & Coding Blocks
+- 💻 150+ DSA Problems solved on LeetCode & Coding Blocks
 
 ---
 
@@ -178,6 +179,24 @@ const vanshika = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
+<div align="center">
+
+```cpp
+while (learning) {
+    build();
+    break_things();
+    fix();
+    ship();
+}
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=140&section=footer" width="100%" />
 
 </div>
+````
