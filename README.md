@@ -178,33 +178,6 @@ const vanshika = {
 
 ---
 
-## 💻 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/vanshikav312?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" />
-
-</div>
-
----
-
-<div align="center">
-
-```cpp
-while (learning) {
-    build();
-    break_things();
-    fix();
-    ship();
-}
-```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
