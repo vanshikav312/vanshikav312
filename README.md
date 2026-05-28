@@ -136,7 +136,7 @@
 - 🚀 **SIH'24 Campus Round Qualifier** — Smart India Hackathon 2024
 - 🧪 **AI & ML Workshop** — IIT Roorkee
 - 🤖 **AI Agent Creation Workshop** — GeeksforGeeks
-- 💻 **200+ DSA Problems** solved on LeetCode & Coding Blocks
+- 💻 **150+ DSA Problems** 
 
 ---
 
