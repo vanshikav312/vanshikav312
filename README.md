@@ -1,196 +1,206 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00DBDE&height=240&section=header&text=Vanshika%20Valecha&font=Pacifico&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20and%20ML)%20Undergraduate&descAlignY=60&descSize=18&descColor=f5f5f5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,40:E100FF,100:00DBDE&height=260&section=header&text=Vanshika%20Valecha&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20%C2%B7%20Full-Stack%20Developer%20%7C%20CSE%20(AI%20and%20ML)%20Undergrad&descAlignY=62&descSize=18&descColor=f5f5f5&animation=fadeIn" width="100%" />
+
+<a href="https://github.com/vanshikav312">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=Building+AI-Powered+Full-Stack+Systems;Next.js+%7C+React+%7C+Node.js+%7C+FastAPI;Python+%7C+TensorFlow+%7C+scikit-learn;Real-Time+WebSockets+%7C+REST+APIs+%7C+JWT+Auth;150%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Gemini+API+%7C+TensorFlow+%7C+Deep+Learning;Hackathons+%7C+Open+Source+%7C+Problem+Solving;150+%2B+DSA+Problems+%7C+SIH%2724+Qualifier" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/vanshikav731/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:vanshikavalecha.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://vanshika-portfolio-liard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E100FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
 
-## 👩‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## 🧑‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) @ BML Munjal University — Batch 2023–2027 · CGPA: 7.62
+```yaml
+name:        Vanshika Valecha
+role:        Full-Stack & AI Developer
+education:   B.Tech CSE (AI & ML) @ BML Munjal University
+batch:       2023 – 2027
+focus:       Scalable Web Apps · AI Agents · Real-World Problem Solving
+currently:   Shipping production full-stack systems
+fun-fact:    150+ DSA problems & still counting
+```
 
-💼 AI Intern @ NIELIT (Govt. of India)
+- 💼 **Full Stack Developer Intern** @ Eternitive Herbals · *ex-AI Intern* @ NIELIT (Govt. of India)
+- 🚀 Building production-grade apps with **RESTful APIs, WebSocket streaming, JWT auth & cloud deployment**
+- 🏆 **SIH'24 Campus Round Qualifier** · **Top 10%** @ IIT Guwahati DS&ML
+- ⚡ Strong foundation in **OOP, DSA & software engineering best practices**
 
-🚀 Building: [AI Mock Interviewer Platform](https://ai-mock-interviewer-umber.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
 
-🧠 Interests: AI Agents · Scalable Web Apps · Real-World Problem Solving
-
-🏆 SIH'24 Campus Round Qualifier · Top 10% @ IIT Guwahati DS&ML Course
-
----
-
-## 🌐 Connect With Me
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikav731/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikav312)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikavalecha.20@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vanshikav312)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-mock-interviewer-umber.vercel.app)
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,mysql,html,css&theme=dark" />
+
+#### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,tensorflow&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+#### ☁️ Cloud, DevOps & Databases
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,mongodb,mysql,postgres,supabase&theme=dark" />
+
+#### 🧩 Systems & Concepts
+<img src="https://img.shields.io/badge/OOP-7F00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge" />
+
+#### 🧰 Tools & Environments
+<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
 
-## ⚒️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Tools & Platforms**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [AI Mock Interviewer Platform](https://ai-mock-interviewer-umber.vercel.app)
-> **Next.js (TypeScript) · React · MongoDB · Gemini API · Groq · NLP**
-
-- Built and deployed an end-to-end AI interview simulator with **JD & role-based question generation** and automated answer evaluation
-- Integrated **Gemini API with Groq fallback** architecture for reliable, uninterrupted AI responses
-- Implemented **NLP-based performance analysis** — technical accuracy, communication clarity, session analytics
-- Developed analytics dashboards and **anti-cheat monitoring** using MongoDB & browser-based session tracking
-
----
-
-### 🏥 Full-Stack Healthcare E-Commerce Platform
-> **Next.js · TypeScript · React · Tailwind CSS · MongoDB · JWT · Razorpay · AWS S3**
-
-- Built a production-ready healthcare platform with **authentication, cart, and order management**
-- Integrated **Razorpay payment gateway** and secure JWT-based auth flows
-- Implemented **AWS S3** for scalable image upload and media storage
-- Designed scalable REST APIs, MongoDB schemas, and admin dashboards
-
----
-
-### 🧠 Multi-Organ & Multi-Disease Prediction
-> **Python · TensorFlow · Keras · Deep Learning · Medical Imaging**
-
-- Developed an AI system for disease prediction using **CT scan images** (kidney, chest, brain)
-- Trained organ-specific deep learning models with image preprocessing on real medical datasets
-- Focused on **early detection** to support clinical decision-making
-
----
-
-### 🤟 Sign Language Recognition
-> **Python · OpenCV · TensorFlow · Machine Learning**
-
-- Built an ML system to recognize and interpret **American Sign Language (ASL)** gestures in real-time
-- Applied computer vision via **OpenCV** and trained deep learning models for accurate gesture classification
-- Designed for **accessibility** — empowering users with hearing and speech disabilities
-
----
-
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| AI Intern (Python, OpenCV, TensorFlow) | NIELIT – Govt. of India (Ministry of Electronics & IT) | May 2025 – Jul 2026 |
+> ### 🟣 Full Stack Developer Intern — `Eternitive Herbals, New Delhi`
+> `Feb 2026 – May 2026`
+> - Developed a pharmacy e-commerce app using **Next.js, TypeScript, MongoDB & RESTful APIs** with secure **JWT authentication**, applying object-oriented design and secure coding practices.
+> - Integrated **Razorpay** payments, **AWS S3** cloud storage, inventory management & admin dashboards, building the application for cloud scalability and performance.
 
-*Worked on practical ML labs and mini-projects involving model training and evaluation.*
+> ### 🔵 AI & Python Developer Intern — `NIELIT, Govt. of India`
+> `May 2024 – Jul 2024 · Remote`
+> - Designed & trained **ML models in Python** using **TensorFlow & scikit-learn**, with feature engineering and data preprocessing pipelines.
+> - Optimized pipelines via **cross-validation & hyperparameter tuning**, writing clean, well-tested code that improved model performance and reduced overfitting.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
 
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Mock Interviewer
+**Dual-Service Full-Stack Platform**
+
+`Python` `FastAPI` `Next.js` `React` `TypeScript` `WebSockets` `MongoDB`
+
+- 🏗️ **Dual-service architecture** (FastAPI backend + Next.js frontend) with REST endpoints, JWT auth & MongoDB session persistence
+- ⚡ **Real-time WebSocket streaming** + multi-provider fallback routing → **zero session crashes** under failures
+- 🎯 JD & role-based question generation with automated answer evaluation & analytics
+
+<a href="https://ai-mock-interviewer-umber.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍳 Chef Claude
+**Full-Stack Recipe Platform**
+
+`Next.js` `TypeScript` `React` `PostgreSQL` `Supabase` `REST APIs`
+
+- 🗄️ **PostgreSQL** database design + **Supabase RLS** for data isolation & secure full-stack auth
+- 🔗 Integrated third-party REST APIs with **end-to-end TypeScript type safety**
+- 🥗 Dietary filtering logic & scalable backend architecture
+
+<a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 NLP Mental Health Classifier
+**Full-Stack ML System**
+
+`Python` `FastAPI` `React` `scikit-learn` `Pandas` `NumPy`
+
+- 🤖 **FastAPI backend** serving **5 trained text classifiers** via REST, with a React dashboard for real-time predictions & confidence scores
+- 🔬 **End-to-end data pipelines** — cleaning, preprocessing, training & evaluating on real-world datasets with unit-testable inference logic
+
+<a href="https://github.com/vanshikav312/Multiclass-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Multi-Organ Disease Prediction
+**Deep Learning · Medical Imaging**
+
+`Python` `TensorFlow` `Keras` `Deep Learning`
+
+- 🩺 AI system for disease prediction from **CT scan images** (kidney, chest, brain)
+- 🧬 Trained organ-specific deep learning models with image preprocessing on real medical datasets
+- ⏱️ Focused on **early detection** to support clinical decision-making
+
+<a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Certifications
 
-- 🥇 **Top 10% Performer** — Data Science & ML Coursework, IIT Guwahati
-- 🚀 **SIH'24 Campus Round Qualifier** — Smart India Hackathon 2024
-- 🧪 **AI & ML Workshop** — IIT Roorkee
-- 🤖 **AI Agent Creation Workshop** — GeeksforGeeks
-- 💻 **150+ DSA Problems** 
+<div align="center">
 
----
+| 🏅 | Achievement |
+|:--:|:------------|
+| 🥇 | **Top 10% Performer** — Data Science & ML certification program, **IIT Guwahati** |
+| 🚀 | **SIH'24 Campus Round Qualifier** — Smart India Hackathon (100+ teams) |
+| 🧪 | **AI & ML Certifications** — IIT Roorkee & GeeksforGeeks (deep learning & data science) |
+| 🎤 | **Lead Organizer** — HackBMU 7.0 & SIH · national-level hackathon coordination |
+| 👥 | **Student & Event Coordinator** — organized 200+ workshops & events |
+| 💻 | **150+ DSA Problems** solved |
 
-## 🎯 Extracurricular
+</div>
 
-- **Executive Committee Member, ACM** — Led marketing & outreach for BMU's largest technical club
-- **Lead Organizer, HackBMU 7.0 & SIH** — Directed a 24-hour national-level hackathon
-- **Student Event & Engagement Team** — Organized workshops, seminars, and university-level events at BMU
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:E100FF,100:00DBDE&height=4" width="100%" />
 
----
-
+<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshikav312&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&ring_color=38bdf8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshikav312&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00DBDE&text_color=cbd5e1&ring_color=A855F7" />
+<img height="170" src="https://streak-stats.demolab.com?user=vanshikav312&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=00DBDE&currStreakLabel=A855F7" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikav312&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" />
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vanshikav312&theme=github-dark-blue&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikav312&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f59e0b&area=true&area_color=1e3a5f"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanshikav312&theme=onestar&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vanshikav312&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikav312&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=cbd5e1&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a5f,100:0f172a&amp;height=100&amp;section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikav312&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=00DBDE&point=ffffff&area=true&area_color=7F00FF" width="95%" />
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" />
+
+<div align="center">
+
+⭐️ From [Vanshika Valecha](https://github.com/vanshikav312) — *let's build something great together!*
 
 </div>
