@@ -114,6 +114,22 @@ fun-fact:    150+ DSA problems & still counting
 </td>
 <td width="50%" valign="top">
 
+### 🚨 CrashSense
+**Runtime AI Debugger**
+
+`Node.js` `Express` `React` `Socket.io` `MongoDB` `Groq`
+
+- 🛠️ **Express middleware** to intercept crashes & parse V8 stack traces for real-time AI root cause analysis
+- ⚡ **Socket.io streaming** token-by-token explanations via Groq LLM in a React dashboard
+- 💻 **Monaco Editor** integration and multi-turn debug chat for full context analysis
+
+<a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🍳 Chef Claude
 **Full-Stack Recipe Platform**
 
@@ -126,8 +142,6 @@ fun-fact:    150+ DSA problems & still counting
 <a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 NLP Mental Health Classifier
@@ -141,6 +155,8 @@ fun-fact:    150+ DSA problems & still counting
 <a href="https://github.com/vanshikav312/Multiclass-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 Multi-Organ Disease Prediction
@@ -153,6 +169,11 @@ fun-fact:    150+ DSA problems & still counting
 - ⏱️ Focused on **early detection** to support clinical decision-making
 
 <a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Space for future project -->
 
 </td>
 </tr>
