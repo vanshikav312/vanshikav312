@@ -82,7 +82,7 @@ fun-fact:    150+ DSA problems & still counting
 ## 💼 Experience
 
 > ### 🟣 Full Stack Developer Intern — `Eternitive Herbals, New Delhi`
-> `Feb 2026 – May 2026`
+> `Feb 2026 – Present`
 > - Developed a pharmacy e-commerce app using **Next.js, TypeScript, MongoDB & RESTful APIs** with secure **JWT authentication**, applying object-oriented design and secure coding practices.
 > - Integrated **Razorpay** payments, **AWS S3** cloud storage, inventory management & admin dashboards, building the application for cloud scalability and performance.
 
