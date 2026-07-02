@@ -109,7 +109,7 @@ fun-fact:    150+ DSA problems & still counting
 - ⚡ **Real-time WebSocket streaming** + multi-provider fallback routing → **zero session crashes** under failures
 - 🎯 JD & role-based question generation with automated answer evaluation & analytics
 
-<a href="https://ai-mock-interviewer-umber.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ai-mock-interviewer-umber.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/vanshikav312/ai-mock-interviewer"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
