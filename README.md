@@ -123,7 +123,7 @@ fun-fact:    150+ DSA problems & still counting
 - ⚡ **Socket.io streaming** token-by-token explanations via Groq LLM in a React dashboard
 - 💻 **Monaco Editor** integration and multi-turn debug chat for full context analysis
 
-<a href="https://github.com/vanshikav312"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://crash-sense.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/vanshikav312/Crash-Sense"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
