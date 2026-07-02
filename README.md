@@ -82,12 +82,12 @@ fun-fact:    150+ DSA problems & still counting
 ## 💼 Experience
 
 > ### 🟣 Full Stack Developer Intern — `Eternitive Herbals, New Delhi`
-> `Feb 2026 – Present`
+> `Feb 2026 – Present · Remote`
 > - Developed a pharmacy e-commerce app using **Next.js, TypeScript, MongoDB & RESTful APIs** with secure **JWT authentication**, applying object-oriented design and secure coding practices.
 > - Integrated **Razorpay** payments, **AWS S3** cloud storage, inventory management & admin dashboards, building the application for cloud scalability and performance.
 
 > ### 🔵 AI & Python Developer Intern — `NIELIT, Govt. of India`
-> `May 2024 – Jul 2024 · Remote`
+> `May 2024 – Jul 2024`
 > - Designed & trained **ML models in Python** using **TensorFlow & scikit-learn**, with feature engineering and data preprocessing pipelines.
 > - Optimized pipelines via **cross-validation & hyperparameter tuning**, writing clean, well-tested code that improved model performance and reduced overfitting.
 
